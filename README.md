@@ -7,15 +7,15 @@ The data is already generated in "filein.txt" .
 
 # Cost #    
 1000 data:
-insert_sort: 0.015 s
-sort: 0 s
-
-10000 data:
-insert_sort: 0.852 s
-sort: 0 s
-
-100000 data:
-insert_sort: 85.948 s
-sort: 0.031 s
+insert_sort: 0.015 s  
+sort: 0 s  
+  
+10000 data:  
+insert_sort: 0.852 s  
+sort: 0 s  
+  
+100000 data:  
+insert_sort: 85.948 s  
+sort: 0.031 s  
 
 

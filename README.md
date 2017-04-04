@@ -6,7 +6,7 @@ The data is already generated in "filein.txt" .
 > The first number in file , at the top , can be changed , depend on how many data you want to sort.
 
 # Cost #    
-1000 data:
+1000 data:  
 insert_sort: 0.015 s  
 sort: 0 s  
   
